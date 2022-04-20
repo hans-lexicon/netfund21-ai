@@ -1,0 +1,39 @@
+﻿@page "/"
+@using Newtonsoft.Json
+@inject HttpClient Http
+
+
+<PageTitle>Textöversättning</PageTitle>
+
+<EditForm Model="@formData" OnSubmit="HandleSubmitForm">
+    <InputText @bind-Value="formData.Text" class="form-control mb-3" />
+    <button type="submit" class="btn btn-primary">Översätt</button>
+</EditForm>
+
+<div class="mt-5">
+    <p>Översatt text:</p>
+    <p>@TranslatedText</p>
+</div>
+
+
+@code {
+    public TextTranslatorForm formData { get; set; } = new();
+    private string TranslatedText = "";
+
+    private async Task HandleSubmitForm()
+    {
+        Http.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", "9e8ad32e8c1b4c32b56776fb92a85f48");
+        Http.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Region", "westeurope");
+        var response = await Http.PostAsJsonAsync("https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&to=en", new object[] { new { Text = formData.Text } });
+        var result = JsonConvert.DeserializeObject<dynamic>(await response.Content.ReadAsStringAsync());
+        
+        TranslatedText = result[0].translations[0].text ?? "";
+    }
+
+
+
+    public class TextTranslatorForm
+    {
+        public string Text { get; set; } = null!;
+    }
+}

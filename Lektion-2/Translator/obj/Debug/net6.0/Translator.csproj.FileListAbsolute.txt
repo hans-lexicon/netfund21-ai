@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\bin\Debug\net6.0\Translator.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\bin\Debug\net6.0\Translator.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\bin\Debug\net6.0\Translator.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\bin\Debug\net6.0\Translator.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\bin\Debug\net6.0\Translator.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\obj\Debug\net6.0\Translator.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\obj\Debug\net6.0\Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\obj\Debug\net6.0\Translator.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\obj\Debug\net6.0\Translator.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\obj\Debug\net6.0\Translator.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\obj\Debug\net6.0\Translator.csproj.CopyComplete
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\obj\Debug\net6.0\Translator.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\obj\Debug\net6.0\refint\Translator.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\obj\Debug\net6.0\Translator.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\obj\Debug\net6.0\Translator.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-2\Translator\obj\Debug\net6.0\ref\Translator.dll
