@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\bin\Debug\net6.0\SupervisedMachineLearning.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\bin\Debug\net6.0\SupervisedMachineLearning.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\bin\Debug\net6.0\SupervisedMachineLearning.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\bin\Debug\net6.0\SupervisedMachineLearning.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\bin\Debug\net6.0\SupervisedMachineLearning.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\obj\Debug\net6.0\SupervisedMachineLearning.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\obj\Debug\net6.0\SupervisedMachineLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\obj\Debug\net6.0\SupervisedMachineLearning.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\obj\Debug\net6.0\SupervisedMachineLearning.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\obj\Debug\net6.0\SupervisedMachineLearning.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\obj\Debug\net6.0\SupervisedMachineLearning.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\obj\Debug\net6.0\refint\SupervisedMachineLearning.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\obj\Debug\net6.0\SupervisedMachineLearning.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\obj\Debug\net6.0\SupervisedMachineLearning.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\obj\Debug\net6.0\ref\SupervisedMachineLearning.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-ai\Lektion-3\SupervisedMachineLearning\obj\Debug\net6.0\SupervisedMachineLearning.csproj.CopyComplete
